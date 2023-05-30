@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appPesoExtraterrestre-EJER4", "appPesoExtraterrestre-EJER4\appPesoExtraterrestre-EJER4.csproj", "{E97238B5-1287-483A-848A-58C0995A8D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E97238B5-1287-483A-848A-58C0995A8D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97238B5-1287-483A-848A-58C0995A8D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97238B5-1287-483A-848A-58C0995A8D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97238B5-1287-483A-848A-58C0995A8D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B959637-ECA6-4E86-8C2A-5702ECA292C2}
+	EndGlobalSection
+EndGlobal
